@@ -22,4 +22,3 @@ def printer (batch_badge_creator, assign_rooms)
   puts (batch_badge_creator)
 end
 puts (assign_rooms)
-

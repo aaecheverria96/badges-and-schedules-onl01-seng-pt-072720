@@ -22,4 +22,4 @@ def printer (batch_badge_creator, assign_rooms)
   prints batch_badge_creator
 end
 prints assign_rooms
-end 
+end

@@ -23,5 +23,5 @@ batch_badge_creator.each
   puts (msg)
   end
 assign_rooms.each
-puts (rooms_organized) 
-end 
+puts (rooms_organized)
+end

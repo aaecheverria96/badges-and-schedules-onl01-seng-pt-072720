@@ -20,7 +20,8 @@ end
 
 def printer (batch_badge_creator, assign_rooms)
 batch_badge_creator.each
-  puts (batch_badge_creator)
-end
+  puts (msg)
+  end
 assign_rooms.each
-puts (assign_rooms)
+puts (rooms_organized) 
+end 

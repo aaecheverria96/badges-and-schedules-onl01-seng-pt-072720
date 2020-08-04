@@ -25,4 +25,4 @@ end
 assign_rooms.each do |announcementofroom|
 puts rooms_organized
   end
-end 
+end

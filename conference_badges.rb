@@ -24,4 +24,4 @@ batch_badge_creator.each do |badges|
 end
 assign_rooms.each do |announcementofroom|
 puts (rooms_organized)
-end 
+end

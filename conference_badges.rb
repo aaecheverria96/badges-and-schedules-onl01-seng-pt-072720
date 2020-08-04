@@ -19,9 +19,9 @@ def assign_rooms (speakers)
 end
 
 def printer (batch_badge_creator, assign_rooms)
-batch_badge_creator.each do |msg|
+batch_badge_creator.each do |badges|
   puts (msg)
 end
-assign_rooms.each do |rooms_organized |
+assign_rooms.each do |announcementofroom|
 puts (rooms_organized)
-end
+end 

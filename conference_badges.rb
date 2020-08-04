@@ -16,4 +16,11 @@ def assign_rooms (speakers)
     rooms_organized.push("Hello, #{name}! You'll be assigned to room #{index + 1}!")
   end
   return rooms_organized
-end
+end 
+
+def printer 
+  puts batch_badge_creator 
+end 
+prints assign_rooms 
+end 
+  

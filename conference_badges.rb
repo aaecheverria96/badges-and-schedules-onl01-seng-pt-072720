@@ -18,8 +18,8 @@ def assign_rooms (speakers)
   return rooms_organized
 end
 
-def printer
-  puts batch_badge_creator
+def printer (batch_badge_creator, assign_rooms)
+  prints batch_badge_creator
 end
 prints assign_rooms
-end
+end 
